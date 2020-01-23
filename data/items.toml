@@ -1,0 +1,14 @@
+[[items]]
+title = "</alan nguyen>"
+image = "img/full/favicon.png"
+thumb = "img/thumbs/favicon.png"
+alt = "</alan nguyen>"
+description = "Alan Nguyen's personal website using Hugo"
+url = "https://github.com/anguyen120/alannguyen.dev"
+[[items]]
+title = "Fake News in Time"
+image = "img/full/fnt.png"
+thumb = "img/thumbs/fnt.png"
+alt = "Fake News in Time"
+description = "Analysis of fake news language evolution in time."
+url = "https://github.com/anguyen120/fake-news-in-time"

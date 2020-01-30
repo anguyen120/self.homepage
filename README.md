@@ -7,7 +7,7 @@
  - [Hugrid](https://github.com/aerohub/hugrid)
  - [Lodi Theme](https://github.com/xaviablaza/hugo-lodi-theme)
 
-It is also mobile-friendly. I can seamless push changes onto this repository's master branch and Netlify automatically deploys for me.
+It is also mobile-friendly. I can seamlessly push changes onto this repository's master branch and Netlify automatically deploys for me.
 
 ## To-do
  - Correctly integrate Hugrid

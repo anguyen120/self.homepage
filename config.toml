@@ -25,7 +25,7 @@ publishdir = "public"
     enable = true
     avatar = "avatar.jpg"
     subtitle = "Howdy! I am Alan, a student from Texas."
-    hero_right = ["**I am currently a junior at Texas A&M University pursuing a Bachelor's degree in Computing.**", "Recently, I had the fantastic opportunity to go on exchange in Cyprus. During my study abroad, I collaborated with University of Cyprus' Laboratory for Internet Computing while maintaining my position as a Software Assistant. I performed analysis of fake news language evolution by applying statistical methods on the time series of fake news' linguistic cues. Besides learning Natural Language Processing, I unexpectedly picked up some Greek too!", "This summer, I am heading to Visa, Inc. as a System Analytics intern!"] 
+    hero_right = ["**I am currently a junior at Texas A&M University pursuing a Bachelor's degree in Computing.**", "Recently, I had the fantastic opportunity to go on exchange in Cyprus. During my study abroad, I collaborated with University of Cyprus' Laboratory for Internet Computing while maintaining my position as a Software Assistant. I performed analysis of fake news language evolution by applying statistical methods on the time series of fake news' linguistic cues. Besides learning Natural Language Processing, I unexpectedly picked up some Greek too!", "This summer, I am heading to Visa as a System Analytics intern!"] 
     resume = "Alan_Nguyen_Resume.pdf"
 
 [params.process]

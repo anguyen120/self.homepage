@@ -4,7 +4,6 @@ title = "</alan nguyen>"
 theme = "hugo-lodi-theme"
 googleAnalytics = "UA-145579470-1"
 
-contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
 publishdir = "public"

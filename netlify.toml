@@ -54,7 +54,4 @@ package = "netlify-plugin-subfont"
 package = "netlify-plugin-image-optim"
 
 [[plugins]]
-package = "netlify-plugin-hugo-cache-resources"
-
-[[plugins]]
 package = "netlify-plugin-hashfiles"

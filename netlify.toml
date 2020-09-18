@@ -33,12 +33,6 @@ HUGO_ENABLEGITINFO = "true"
 package = "@netlify/plugin-sitemap"
 
 [[plugins]]
-package = "netlify-plugin-hugo-cache-resources"
-
-[[plugins]]
-package = "netlify-plugin-image-optim"
-
-[[plugins]]
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
@@ -52,3 +46,15 @@ package = "netlify-plugin-image-optim"
 		"bing",
 		"yandex"
 	]
+
+[[plugins]]
+package = "netlify-plugin-subfont"
+
+[[plugins]]
+package = "netlify-plugin-image-optim"
+
+[[plugins]]
+package = "netlify-plugin-hugo-cache-resources"
+
+[[plugins]]
+package = "netlify-plugin-hashfiles"

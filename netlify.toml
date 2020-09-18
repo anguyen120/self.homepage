@@ -37,3 +37,18 @@ package = "netlify-plugin-hugo-cache-resources"
 
 [[plugins]]
 package = "netlify-plugin-image-optim"
+
+[[plugins]]
+  package = "netlify-plugin-submit-sitemap"
+
+	[plugins.inputs]
+
+	# The base url of your site (optional, default = main URL set in Netlify)
+	baseUrl = "https://alannguyen.dev/"
+
+	# Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
+	providers = [
+		"google",
+		"bing",
+		"yandex"
+	]

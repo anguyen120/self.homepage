@@ -13,7 +13,7 @@ publishdir = "public"
     description = "Website of Alan Nguyen"
     favicon = "favicon.png"
     logo = "logo.png"
-    email = "anguyen120@pm.me"
+    email = "iam@alannguyen.dev"
     linkedin = "https://www.linkedin.com/in/anguyen120/"
     github = "anguyen120"
 

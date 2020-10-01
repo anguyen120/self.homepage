@@ -46,7 +46,7 @@ It is also mobile-friendly. I can seamlessly push changes onto this repository's
 <!-- CONTACT -->
 ## Contact
 
-Alan Nguyen - anguyen120@pm.me
+Alan Nguyen - iam@alannguyen.dev
 
 Project Link: [https://github.com/anguyen120/alannguyen.dev](https://github.com/anguyen120/alannguyen.dev)
 
